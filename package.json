@@ -1,0 +1,22 @@
+{
+  "name": "assignment4",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node --watch main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omar-MK-20/Assignment4.git"
+  },
+  "author": "Omar MK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omar-MK-20/Assignment4/issues"
+  },
+  "homepage": "https://github.com/Omar-MK-20/Assignment4#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
