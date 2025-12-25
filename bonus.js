@@ -7,8 +7,6 @@ var longestCommonPrefix = function (strs)
     const sortedArr = strs.sort();
     const firstLetter = sortedArr[0];
     const lastLetter = sortedArr[sortedArr.length - 1];
-
-    // console.log({ firstLetter, lastLetter });
     
     let commonPrefix = [];
     
