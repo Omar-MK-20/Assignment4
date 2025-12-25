@@ -144,15 +144,9 @@
         "id": 25
     },
     {
-        "name": "user3",
-        "email": "user3@example.com",
-        "age": 23,
-        "id": 26
-    },
-    {
-        "name": "user4",
-        "email": "user4@example.com",
-        "age": 23,
+        "name": "Ahmed",
+        "email": "Ahmed@example.com",
+        "age": 30,
         "id": 27
     }
 ]
